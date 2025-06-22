@@ -1,0 +1,62 @@
+table @_Medidas_Demandas
+	lineageTag: 03ca9afc-c13a-43b8-8b5d-df1d75b15f38
+
+	measure 'Quantidade de demandas' = COUNTROWS('CONTROLE DEMANDAS')
+		formatString: #,0
+		lineageTag: e3cfa81e-be58-4d12-ae41-4df19faa9a08
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	measure 'Quantidade de demandas por mês' = COUNTROWS('CONTROLE DEMANDAS') / DISTINCTCOUNT('CONTROLE DEMANDAS'[Ano_mes_id])
+		formatString: #,0
+		lineageTag: bd87b40e-d624-4562-9d43-8da2ca99b9ab
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	measure 'Quantidade de demandas por recurso' = COUNTROWS('CONTROLE DEMANDAS') / DISTINCTCOUNT('CONTROLE DEMANDAS'[RECURSO 1])
+		formatString: #,0
+		lineageTag: 013bdc0b-3665-4bdb-869f-61ea89ec3eb5
+
+		annotation PBI_FormatHint = {"isDecimal":true}
+
+	measure SLA =
+			
+			CALCULATE(
+			    AVERAGE('CONTROLE DEMANDAS'[SLA]),
+			    'CONTROLE DEMANDAS'[STATUS DA DEMANDA] <> "CANCELADO",
+			    'CONTROLE DEMANDAS'[SLA] < 365,
+			    'CONTROLE DEMANDAS'[SLA] > -100
+			)
+		formatString: #,0.0
+		lineageTag: ac04ddad-38fd-4080-8997-3aa5d188bda7
+
+	measure 'Controle de Atividades' = "Controle de Atividades - Equipe Informações Gerenciais"
+		lineageTag: 7c01372a-4913-420f-8cb8-245cee4475f8
+
+	measure 'Total de atividades que precisam de justificativa' =
+			
+			sum('CONTROLE DEMANDAS'[Precisa de justificativa])
+		formatString: 0
+		lineageTag: e12239a8-b7c6-4393-a361-7dddf484e077
+
+	measure 'Total de atividades que tiveram justificativa' =
+			
+			CALCULATE(
+			    sum('CONTROLE DEMANDAS'[Precisa de justificativa]),
+			    'CONTROLE DEMANDAS'[JUSTIFICATIVA DO STATUS] <> BLANK()
+			)
+		formatString: 0
+		lineageTag: d945ae49-059e-4a60-a335-4e84a1e200fe
+
+	partition @_Medidas_Demandas = m
+		mode: import
+		source =
+				let
+				    Fonte = Table.FromRows(Json.Document(Binary.Decompress(Binary.FromText("i44FAA==", BinaryEncoding.Base64), Compression.Deflate)), let _t = ((type nullable text) meta [Serialized.Text = true]) in type table [#"Coluna 1" = _t]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(Fonte,{{"Coluna 1", type text}}),
+				    #"Colunas Removidas" = Table.RemoveColumns(#"Tipo Alterado",{"Coluna 1"})
+				in
+				    #"Colunas Removidas"
+
+	annotation PBI_ResultType = Table
+

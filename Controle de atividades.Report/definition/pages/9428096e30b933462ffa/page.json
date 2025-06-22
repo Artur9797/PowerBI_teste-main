@@ -1,0 +1,160 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/1.1.0/schema.json",
+  "name": "9428096e30b933462ffa",
+  "displayName": "Controle de Atividades",
+  "displayOption": "FitToWidth",
+  "height": 1400,
+  "width": 1280,
+  "visualInteractions": [
+    {
+      "source": "c527801d418ee808dd94",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7f5e44b4d8afd1d33dd7",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "c527801d418ee808dd94",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "926f1bca2b15660f2983",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "c527801d418ee808dd94",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    },
+    {
+      "source": "926f1bca2b15660f2983",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "c527801d418ee808dd94",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "828991a4ada726d6e35a",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "828991a4ada726d6e35a",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "828991a4ada726d6e35a",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7f5e44b4d8afd1d33dd7",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7f5e44b4d8afd1d33dd7",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c3649011a7ffd303b95",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c3649011a7ffd303b95",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c3649011a7ffd303b95",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "bb044939879bcf63e8af",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "bb044939879bcf63e8af",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    },
+    {
+      "source": "bb044939879bcf63e8af",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "bb044939879bcf63e8af",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "c527801d418ee808dd94",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "926f1bca2b15660f2983",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "926f1bca2b15660f2983",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    },
+    {
+      "source": "828991a4ada726d6e35a",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c3649011a7ffd303b95",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "7f5e44b4d8afd1d33dd7",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0c3aa926ba9680df10a1",
+      "target": "bb044939879bcf63e8af",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0c3aa926ba9680df10a1",
+      "target": "828991a4ada726d6e35a",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0c3aa926ba9680df10a1",
+      "target": "926f1bca2b15660f2983",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0c3aa926ba9680df10a1",
+      "target": "7f5e44b4d8afd1d33dd7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "0c3aa926ba9680df10a1",
+      "target": "1c3649011a7ffd303b95",
+      "type": "DataFilter"
+    }
+  ]
+}

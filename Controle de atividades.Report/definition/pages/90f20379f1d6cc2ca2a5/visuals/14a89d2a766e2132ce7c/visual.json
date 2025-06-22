@@ -1,0 +1,84 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/visualContainer/1.1.0/schema.json",
+  "name": "14a89d2a766e2132ce7c",
+  "position": {
+    "x": 457.21336715992345,
+    "y": 1001.3268991364198,
+    "z": 19000,
+    "height": 70.1126329770077,
+    "width": 439.43833344744263,
+    "tabOrder": 19000
+  },
+  "visual": {
+    "visualType": "card",
+    "query": {
+      "queryState": {
+        "Values": {
+          "projections": [
+            {
+              "field": {
+                "Measure": {
+                  "Expression": {
+                    "SourceRef": {
+                      "Entity": "@_Medidas_Demandas"
+                    }
+                  },
+                  "Property": "Total de atividades que tiveram justificativa"
+                }
+              },
+              "queryRef": "@_Medidas_Demandas.Total de atividades que tiveram justificativa",
+              "nativeQueryRef": "Total de atividades que tiveram justificativa"
+            }
+          ]
+        }
+      },
+      "sortDefinition": {
+        "sort": [
+          {
+            "field": {
+              "Measure": {
+                "Expression": {
+                  "SourceRef": {
+                    "Entity": "@_Medidas_Demandas"
+                  }
+                },
+                "Property": "Total de atividades que tiveram justificativa"
+              }
+            },
+            "direction": "Descending"
+          }
+        ],
+        "isDefaultSort": true
+      }
+    },
+    "objects": {
+      "labels": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "20D"
+                }
+              }
+            }
+          }
+        }
+      ],
+      "categoryLabels": [
+        {
+          "properties": {
+            "fontSize": {
+              "expr": {
+                "Literal": {
+                  "Value": "10D"
+                }
+              }
+            }
+          }
+        }
+      ]
+    },
+    "drillFilterOtherVisuals": true
+  }
+}

@@ -1,0 +1,361 @@
+table 'CONTROLE DEMANDAS'
+	lineageTag: b63d5fe9-5e9b-4c48-83d1-548fe56daf4b
+
+	column PERÍODO/MÊS
+		dataType: string
+		lineageTag: bab84d9e-e81e-4590-b035-7223c55b8155
+		summarizeBy: none
+		sourceColumn: PERÍODO/MÊS
+
+		annotation SummarizationSetBy = Automatic
+
+	column PERÍODO/ANO
+		dataType: string
+		lineageTag: 3050eae2-c9c8-4144-8a9a-c27389d0a14b
+		summarizeBy: none
+		sourceColumn: PERÍODO/ANO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'ID '
+		dataType: int64
+		formatString: 0
+		lineageTag: c409f2ad-a24a-4394-bc96-e9730ab7dbc2
+		summarizeBy: sum
+		sourceColumn: "ID "
+
+		annotation SummarizationSetBy = Automatic
+
+	column DATA
+		dataType: string
+		lineageTag: 0d91eb61-1ac7-4185-bd74-73f4ff47dec2
+		summarizeBy: none
+		sourceColumn: DATA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'NOME RESPONSÁVEL'
+		dataType: string
+		lineageTag: a64623c7-cecc-4197-9161-4d597a838276
+		summarizeBy: none
+		sourceColumn: NOME RESPONSÁVEL
+
+		annotation SummarizationSetBy = Automatic
+
+	column COORDENAÇÃO
+		dataType: string
+		lineageTag: f88481f8-1a0d-4e33-8001-f0a1b98934f5
+		summarizeBy: none
+		sourceColumn: COORDENAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'HIERARQUIA DE PRIORIZAÇÃO'
+		dataType: string
+		lineageTag: 69307a16-5fa5-4ae3-a428-f5c97f5868ba
+		summarizeBy: none
+		sourceColumn: HIERARQUIA DE PRIORIZAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'ÁREA SOLICITANTE'
+		dataType: string
+		lineageTag: 14510603-2a7a-437a-ba86-6d7cb006d4d4
+		summarizeBy: none
+		sourceColumn: ÁREA SOLICITANTE
+
+		annotation SummarizationSetBy = Automatic
+
+	column FILIAL
+		dataType: string
+		lineageTag: fb4c068d-4cf0-4601-be27-db92c6c1d856
+		summarizeBy: none
+		sourceColumn: FILIAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'FONTE DE RECEBIMENTO'
+		dataType: string
+		lineageTag: a89611ca-d187-4b69-9ab1-1f7a338b927a
+		summarizeBy: none
+		sourceColumn: FONTE DE RECEBIMENTO
+
+		annotation SummarizationSetBy = Automatic
+
+	column E-MAIL
+		dataType: string
+		lineageTag: 91d5ba47-94c7-46a3-8acf-0267583738ca
+		summarizeBy: none
+		sourceColumn: E-MAIL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DESCRIÇÃO DA DEMANDA'
+		dataType: string
+		lineageTag: f8e7d769-c9ab-4aea-a9e9-a7f3d6251ff3
+		summarizeBy: none
+		sourceColumn: DESCRIÇÃO DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'REANÁLISE DEVIDONOVO CENÁRIO'
+		dataType: string
+		lineageTag: bed40a5c-d7bb-4b16-bf67-72d2b0b2e114
+		summarizeBy: none
+		sourceColumn: REANÁLISE DEVIDONOVO CENÁRIO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'TIPO DE DEMANDA'
+		dataType: string
+		lineageTag: 4f61fe95-5614-48b1-8a7b-21ea439b26f2
+		summarizeBy: none
+		sourceColumn: TIPO DE DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA'
+		dataType: string
+		lineageTag: 884b13b4-a61b-4cc5-b239-14e47b478aa7
+		summarizeBy: none
+		sourceColumn: SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)'
+		dataType: string
+		lineageTag: 7b8bd0a3-4861-4ada-a78d-fef641a2edd8
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)'
+		dataType: string
+		lineageTag: d1521171-c61e-424c-983f-8628de0f0ab0
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA ACORDADA'
+		dataType: string
+		lineageTag: 61d6955d-d519-4be9-9e6a-3dc081bf0253
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA ACORDADA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'INICIO REALIZADO'
+		dataType: int64
+		formatString: 0
+		lineageTag: ee1c9edb-5770-433e-8660-2c25955fe583
+		summarizeBy: sum
+		sourceColumn: INICIO REALIZADO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'FIM REALIZADO'
+		dataType: int64
+		formatString: 0
+		lineageTag: f1c01a6e-0dce-4ae3-9008-9d46c2c3c831
+		summarizeBy: sum
+		sourceColumn: FIM REALIZADO
+
+		annotation SummarizationSetBy = Automatic
+
+	column ' STAND BY'
+		dataType: string
+		lineageTag: 38378b5b-912a-4740-bc19-3952183945ee
+		summarizeBy: none
+		sourceColumn: " STAND BY"
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'STATUS DA DEMANDA'
+		dataType: string
+		lineageTag: b3bbfa69-1d89-4de5-a4da-4b446caf5852
+		summarizeBy: none
+		sourceColumn: STATUS DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'JUSTIFICATIVA DO STATUS'
+		dataType: string
+		lineageTag: d93a0a54-d42f-49e8-b359-25c5ff12ea2c
+		summarizeBy: none
+		sourceColumn: JUSTIFICATIVA DO STATUS
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 1'
+		dataType: string
+		lineageTag: 9e1dc132-8aa6-461b-84ce-f1c6e038e116
+		summarizeBy: none
+		sourceColumn: RECURSO 1
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 2'
+		dataType: string
+		lineageTag: bbebbfe7-7a6d-436a-90b8-100882dc1055
+		summarizeBy: none
+		sourceColumn: RECURSO 2
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 3'
+		dataType: string
+		lineageTag: da40d038-9954-438b-b96e-53a693c54560
+		summarizeBy: none
+		sourceColumn: RECURSO 3
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'LINK/CAMINHO PARA ACESSO DO MATERIAL'
+		dataType: string
+		lineageTag: 30518637-f845-4898-9c39-c8fdfb174062
+		summarizeBy: none
+		sourceColumn: LINK/CAMINHO PARA ACESSO DO MATERIAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Início do Mês'
+		dataType: dateTime
+		formatString: mmmm" de "yyyy
+		lineageTag: dc1c2fce-76e0-4f2c-9210-76a46a74b22f
+		summarizeBy: none
+		sourceColumn: Início do Mês
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+		annotation PBI_FormatHint = {"isDateTimeCustom":true}
+
+	column Mês2 =
+			
+			SWITCH(
+			    TRUE(),
+			    [Mês] = 1, "Jan",
+			    [Mês] = 2, "Fev",
+			    [Mês] = 3, "Mar",
+			    [Mês] = 4, "Abr",
+			    [Mês] = 5, "Mai",
+			    [Mês] = 6, "Jun",
+			    [Mês] = 7, "Jul",
+			    [Mês] = 8, "Ago",
+			    [Mês] = 9, "Set",
+			    [Mês] = 10, "Out",
+			    [Mês] = 11, "Nov",
+			    [Mês] = 12, "Dez"
+			)
+		dataType: string
+		lineageTag: c15f6805-a095-4c1e-af6c-d09a230a1469
+		summarizeBy: none
+		isDataTypeInferred
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ano/Mês = 'CONTROLE DEMANDAS'[Mês2]&"/"&right('CONTROLE DEMANDAS'[Ano],2)
+		dataType: string
+		lineageTag: 1d923fa8-9584-446e-896e-9dfae9e51ae5
+		summarizeBy: none
+		isDataTypeInferred
+		sortByColumn: Ano_mes_id
+
+		changedProperty = SortByColumn
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ano_mes_id =
+			'CONTROLE DEMANDAS'[Ano]&
+			IF(
+			    LEN('CONTROLE DEMANDAS'[Mês]) = 1,
+			    0&'CONTROLE DEMANDAS'[Mês],
+			    'CONTROLE DEMANDAS'[Mês]
+			)
+		dataType: string
+		lineageTag: 215bf257-39a9-43e9-ac81-843e959095f5
+		summarizeBy: none
+		isDataTypeInferred
+
+		annotation SummarizationSetBy = Automatic
+
+	column SLA = 'CONTROLE DEMANDAS'[FIM REALIZADO] - 'CONTROLE DEMANDAS'[INICIO REALIZADO]
+		dataType: int64
+		formatString: General Date
+		lineageTag: 9ce61e3d-5b05-448b-a2cc-f6e3625f4b46
+		summarizeBy: none
+		isDataTypeInferred
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Precisa de justificativa' =
+			
+			SWITCH(
+			    TRUE(),
+			    'CONTROLE DEMANDAS'[STATUS DA DEMANDA] = "À INICIAR FORA DO PRAZO", 1,
+			    'CONTROLE DEMANDAS'[STATUS DA DEMANDA] = "EM ANDAMENTO FORA DO PRAZO", 1,
+			    'CONTROLE DEMANDAS'[STATUS DA DEMANDA] = "CONCLUÍDO FORA DO PRAZO", 1,
+			    0
+			)
+		dataType: int64
+		formatString: 0
+		lineageTag: caecff4e-2f1c-4303-9ddb-36d8b48b9160
+		summarizeBy: sum
+		isDataTypeInferred
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'TÍTULO E-MAIL'
+		dataType: string
+		lineageTag: f0bf8c85-e1e2-4ce4-bb91-aeb14a686bed
+		summarizeBy: none
+		sourceColumn: TÍTULO E-MAIL
+
+		annotation SummarizationSetBy = Automatic
+
+	column Ano
+		dataType: int64
+		formatString: 0
+		lineageTag: 620ed1be-e099-443e-b6ac-70ec2ba78c24
+		summarizeBy: sum
+		sourceColumn: Ano
+
+		annotation SummarizationSetBy = Automatic
+
+	column Mês
+		dataType: int64
+		formatString: 0
+		lineageTag: a471b910-4d72-4587-a3a6-0d29b0a1c150
+		summarizeBy: sum
+		sourceColumn: Mês
+
+		annotation SummarizationSetBy = Automatic
+
+	partition 'CONTROLE DEMANDAS' = m
+		mode: import
+		source =
+				let
+				    Fonte = GoogleSheets.Contents("https://docs.google.com/spreadsheets/d/1dsu5x37cavXVc201KuF3T8xADpi8b0SUanvDVsF9geQ/edit?usp=sharing"),
+				    #"CONTROLE DEMANDAS_Table" = Fonte{[name="CONTROLE DEMANDAS",ItemKind="Table"]}[Data],
+				    #"Linhas Filtradas" = Table.SelectRows(#"CONTROLE DEMANDAS_Table", each ([Column1] <> "")),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(#"Linhas Filtradas", [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"PERÍODO/MÊS", type date}, {"PERÍODO/ANO", Int64.Type}, {"ID ", Int64.Type}, {"DATA", type date}, {"NOME RESPONSÁVEL", type text}, {"COORDENAÇÃO", type text}, {"HIERARQUIA DE PRIORIZAÇÃO", type text}, {"ÁREA SOLICITANTE", type text}, {"FILIAL", type text}, {"FONTE DE RECEBIMENTO", type text}, {"E-MAIL", type text}, {"DESCRIÇÃO DA DEMANDA", type text}, {"REANÁLISE DEVIDO#(lf)NOVO CENÁRIO", type text}, {"TIPO DE DEMANDA", type text}, {"SLA#(lf) QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA", type any}, {"DATA PREVISÃO DA ENTREGA CONF. SLA#(lf)(DATA)", type any}, {"DATA PREVISÃO DA ENTREGA CONF. SLA#(lf)(DIAS)", Int64.Type}, {"DATA PREVISÃO DA ENTREGA ACORDADA", type date}, {"INICIO REALIZADO", type any}, {"FIM REALIZADO", type date}, {" STAND BY", type text}, {"STATUS DA DEMANDA", type text}, {"JUSTIFICATIVA DO STATUS", type text}, {"RECURSO 1", type text}, {"RECURSO 2", type text}, {"RECURSO 3", type text}, {"LINK/CAMINHO PARA ACESSO DO MATERIAL", type text}}),
+				    #"Início do Mês Inserido" = Table.AddColumn(#"Tipo Alterado", "Início do Mês", each Date.StartOfMonth([#"PERÍODO/MÊS"]), type date),
+				    #"Tipo Alterado1" = Table.TransformColumnTypes(#"Início do Mês Inserido",{{"FIM REALIZADO", Int64.Type}, {"INICIO REALIZADO", Int64.Type}}),
+				    #"Consulta Acrescentada" = Table.Combine({#"Tipo Alterado1", #"CONTROLE DEMANDAS_2024"}),
+				    #"Tipo Alterado2" = Table.TransformColumnTypes(#"Consulta Acrescentada",{{"ID ", Int64.Type}}),
+				    #"Duplicatas Removidas" = Table.Distinct(#"Tipo Alterado2", {"ID "}),
+				    #"Ano Inserido" = Table.AddColumn(#"Duplicatas Removidas", "Ano", each Date.Year([DATA]), Int64.Type),
+				    #"Mês Inserido" = Table.AddColumn(#"Ano Inserido", "Mês", each Date.Month([DATA]), Int64.Type)
+				in
+				    #"Mês Inserido"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+

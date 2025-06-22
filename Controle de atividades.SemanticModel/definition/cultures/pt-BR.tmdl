@@ -1,0 +1,6424 @@
+cultureInfo pt-BR
+
+	linguisticMetadata =
+			{
+			  "Version": "3.5.0",
+			  "Language": "en-US",
+			  "Entities": {
+			    "controle_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "controle demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.período_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "PERÍODO/MÊS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "período/mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "período": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "período mê": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.período_ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "PERÍODO/ANO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "período/ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "período": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "período ano": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "ID "
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ],
+			      "NameType": "Identifier"
+			    },
+			    "controle_demanda.data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "DATA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.nome_responsável": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "NOME RESPONSÁVEL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome responsável": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.coordenação": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "COORDENAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "coordenação": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.hierarquia_de_priorização": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "HIERARQUIA DE PRIORIZAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de priorização": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.área_solicitante": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "ÁREA SOLICITANTE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "área solicitante": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.filial": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "FILIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "filial": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.fonte_de_recebimento": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "FONTE DE RECEBIMENTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fonte de recebimento": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.e_mail": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "E-MAIL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "e mail": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "E-MAIL": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "mail": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "mailing": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "communication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "posting": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "post-office": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "delivery": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "e correspondence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "e post": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.461
+			          }
+			        },
+			        {
+			          "correspondence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        },
+			        {
+			          "post": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.452
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.descrição_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "DESCRIÇÃO DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "descrição da demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.reanálise_devidonovo_cenário": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "REANÁLISE DEVIDONOVO CENÁRIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "reanálise devidonovo cenário": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.tipo_de_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "TIPO DE DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tipo de demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sla qtd dias úteis para entrega da demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.data_previsão_da_entrega_conf__sladata": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega conf. sla(data)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data previsão da entrega conf. sla": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.data_previsão_da_entrega_conf__sladias": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega conf. sla(dias)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data previsão da entrega conf. sla": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.data_previsão_da_entrega_acordada": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA ACORDADA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega acordada": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "fact previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "info previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "statistic previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "document previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "figure previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "record previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.inicio_realizado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "INICIO REALIZADO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "inicio realizado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.fim_realizado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "FIM REALIZADO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fim realizado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.stand_by": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": " STAND BY"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "stand by": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "attitude by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "opinion by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "stance by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "viewpoint by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "standpoint by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "outlook by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "policy by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "position by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "view by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "kiosk by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.status_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "STATUS DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status da demanda": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "category da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "importance da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prestige da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prominence da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "condition da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "class da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "grade da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "level da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "position da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "rank da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.justificativa_do_status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "JUSTIFICATIVA DO STATUS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "justificativa do status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "justificativa do category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do level": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do position": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do rank": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.recurso_1": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "RECURSO 1"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 1": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.recurso_2": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "RECURSO 2"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 2": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.recurso_3": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "RECURSO 3"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 3": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.link_caminho_para_acesso_do_material": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "LINK/CAMINHO PARA ACESSO DO MATERIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "link/caminho para acesso do material": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "link": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "link caminho para acesso do material": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "caminho para acesso do material": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "connection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "relation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "association": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "relationship": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "linkage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "nexus": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "tie": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "bond": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "yoke": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "caminho para acesso do fabric": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.469
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.início_do_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Início do Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "início do mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "controle_demanda.mês_2": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Mês2"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mês 2": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "mê 2": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Mês2": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.ano_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Ano/Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano/mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ano mê": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "/ Mês": {
+			            "State": "Suggested",
+			            "Source": {
+			              "Type": "External",
+			              "Agent": "PowerBI.VisualColumnRename"
+			            },
+			            "Weight": 0.9
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.ano_mes_id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Ano_mes_id"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano mes id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "ano me id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "Ano_mes_id": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "ano me identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "ano me identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "ano me identifier": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "ano me credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.sla": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "SLA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sla": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.precisa_de_justificativa": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Precisa de justificativa"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "precisa de justificativa": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.título_email": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "TÍTULO E-MAIL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "título e-mail": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "título communication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "título correspondence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Ano"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "ano": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demanda.mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS",
+			          "ConceptualProperty": "Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mê": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "controle chamado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.mês_ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "MÊS.ANO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "mês ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "mê ano": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.78
+			          }
+			        },
+			        {
+			          "MÊS.ANO": {
+			            "Type": "Noun",
+			            "State": "Generated",
+			            "Weight": 0.99
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "controle_chamado.nº_HELP": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "Nº HELP"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nº HELP": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "nº assistance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "nº relief": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.508
+			          }
+			        },
+			        {
+			          "nº aid": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº benefit": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº support": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº service": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº comfort": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº advantage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        },
+			        {
+			          "nº succor": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.492
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.data_abertura": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "DATA ABERTURA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data abertura": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "information abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record abertura": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "controle_chamado.tipo": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "TIPO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tipo": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.impacto_PQR": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "Impacto PQRS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "impacto PQR": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.classificação": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "CLASSIFICAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "classificação": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.descrição": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "DESCRIÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "descrição": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.observação": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "OBSERVAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "observação": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.departamento": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "DEPARTAMENTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "departamento": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.solicitado_por": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "SOLICITADO POR"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "solicitado por": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.analista_responsável": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "ANALISTA RESPONSÁVEL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "analista responsável": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.data_fim": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "DATA FIM"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data fim": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        },
+			        {
+			          "information fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "fact fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "info fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "statistic fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.6
+			          }
+			        },
+			        {
+			          "document fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "figure fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        },
+			        {
+			          "record fim": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.582
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "controle_chamado.status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "STATUS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "level": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "position": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.qtd_dias_pendente": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "QTD DIAS PENDENTES"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd dias pendente": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.qtd_dias_para_conclusão": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "QTD DIAS PARA CONCLUSÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "qtd dias para conclusão": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.resposta_do_chamado_efetiva": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "RESPOSTA DO CHAMADO EFETIVA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "resposta do chamado efetiva": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.homologado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "HOMOLOGADO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "homologado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.observaçõe": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "OBSERVAÇÕES"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "observaçõe": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_chamado.início_do_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE CHAMADOS",
+			          "ConceptualProperty": "Início do Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "início do mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "@_Medidas_Demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Quantidade de demandas"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de demandas": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_mês": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Quantidade de demandas por mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de demandas por mês": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_recurso": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Quantidade de demandas por recurso"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "quantidade de demandas por recurso": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.sla": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "SLA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sla": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.controle_de_atividades": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Controle de Atividades"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "controle de atividades": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_precisam_de_justificativa": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Total de atividades que precisam de justificativa"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total de atividades que precisam de justificativa": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_tiveram_justificativa": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "@_Medidas_Demandas",
+			          "ConceptualProperty": "Total de atividades que tiveram justificativa"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "total de atividades que tiveram justificativa": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "controle demandas_2024": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.período_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "PERÍODO/MÊS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "período/mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "período": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "período mê": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.período_ano": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "PERÍODO/ANO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "período/ano": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "período": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "período ano": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.id": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "ID "
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "id": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "identification": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "identity": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "credential": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ],
+			      "NameType": "Identifier"
+			    },
+			    "controle_demandas_2024.data": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "DATA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "fact": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "info": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "statistic": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.736
+			          }
+			        },
+			        {
+			          "document": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "figure": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        },
+			        {
+			          "record": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.714
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.nome_responsável": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "NOME RESPONSÁVEL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "nome responsável": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.coordenação": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "COORDENAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "coordenação": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.hierarquia_de_priorização": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "HIERARQUIA DE PRIORIZAÇÃO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "hierarquia de priorização": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.área_solicitante": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "ÁREA SOLICITANTE"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "área solicitante": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.filial": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "FILIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "filial": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.fonte_de_recebimento": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "FONTE DE RECEBIMENTO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fonte de recebimento": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.título_email": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "TÍTULO E-MAIL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "título e-mail": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "título communication": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "título correspondence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.descrição_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "DESCRIÇÃO DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "descrição da demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.reanálise_devidonovo_cenário": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "REANÁLISE DEVIDONOVO CENÁRIO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "reanálise devidonovo cenário": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.tipo_de_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "TIPO DE DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "tipo de demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "sla qtd dias úteis para entrega da demanda": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.data_previsão_da_entrega_conf__sladata": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega conf. sla(data)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data previsão da entrega conf. sla": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.data_previsão_da_entrega_conf__sladias": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega conf. sla(dias)": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "data previsão da entrega conf. sla": {
+			            "State": "Generated",
+			            "Weight": 0.75
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.data_previsão_da_entrega_acordada": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "DATA PREVISÃO DA ENTREGA ACORDADA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "data previsão da entrega acordada": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "information previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "fact previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "info previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "statistic previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.624
+			          }
+			        },
+			        {
+			          "document previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "figure previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        },
+			        {
+			          "record previsão da entrega acordada": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.605
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.inicio_realizado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "INICIO REALIZADO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "inicio realizado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.fim_realizado": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "FIM REALIZADO"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "fim realizado": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.stand_by": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": " STAND BY"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "stand by": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "attitude by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "opinion by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "stance by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "viewpoint by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "standpoint by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "outlook by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "policy by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.5
+			          }
+			        },
+			        {
+			          "position by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "view by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.485
+			          }
+			        },
+			        {
+			          "kiosk by": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.475
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.status_da_demanda": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "STATUS DA DEMANDA"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "status da demanda": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "category da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "importance da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prestige da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "prominence da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.609
+			          }
+			        },
+			        {
+			          "condition da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "class da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "grade da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "level da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "position da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        },
+			        {
+			          "rank da demanda": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.591
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.justificativa_do_status": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "JUSTIFICATIVA DO STATUS"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "justificativa do status": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "justificativa do category": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do importance": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do prestige": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do prominence": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.762
+			          }
+			        },
+			        {
+			          "justificativa do condition": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do class": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do grade": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do level": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do position": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        },
+			        {
+			          "justificativa do rank": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.739
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.recurso_1": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "RECURSO 1"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 1": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.recurso_2": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "RECURSO 2"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 2": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.recurso_3": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "RECURSO 3"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "recurso 3": {
+			            "State": "Generated"
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.link_caminho_para_acesso_do_material": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "LINK/CAMINHO PARA ACESSO DO MATERIAL"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "link/caminho para acesso do material": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "link": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "link caminho para acesso do material": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "caminho para acesso do material": {
+			            "State": "Generated",
+			            "Weight": 0.97
+			          }
+			        },
+			        {
+			          "connection": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "relation": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "association": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "relationship": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "linkage": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "nexus": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.491
+			          }
+			        },
+			        {
+			          "tie": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "bond": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "yoke": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.476
+			          }
+			        },
+			        {
+			          "caminho para acesso do fabric": {
+			            "Type": "Noun",
+			            "State": "Suggested",
+			            "Source": {
+			              "Agent": "Thesaurus"
+			            },
+			            "Weight": 0.469
+			          }
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024.início_do_mê": {
+			      "Definition": {
+			        "Binding": {
+			          "ConceptualEntity": "CONTROLE DEMANDAS_2024",
+			          "ConceptualProperty": "Início do Mês"
+			        }
+			      },
+			      "State": "Generated",
+			      "Terms": [
+			        {
+			          "início do mê": {
+			            "State": "Generated"
+			          }
+			        },
+			        {
+			          "date": {
+			            "State": "Generated",
+			            "Weight": 0.7
+			          }
+			        }
+			      ],
+			      "SemanticType": "Time"
+			    }
+			  },
+			  "Relationships": {
+			    "controle_demandas_2024_has_recurso_1": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.recurso_1": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.recurso_1"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.recurso_1"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_recurso_1"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_justificativa_do_status": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.justificativa_do_status": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.justificativa_do_status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.justificativa_do_status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_justificativa_do_statuses"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_status_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.status_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.status_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.status_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_status_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_stand_by": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.stand_by": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.stand_by"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.stand_by"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_stand_by"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Verbs": [
+			              {
+			                "stand": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "PrepositionalPhrases": [
+			              {
+			                "Prepositions": [
+			                  {
+			                    "by": {
+			                      "State": "Generated"
+			                    }
+			                  }
+			                ],
+			                "Object": {
+			                  "Role": "controle_demandas_2024.stand_by"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.95,
+			          "ID": "controle_demandas_2024_stand_by_stand_by"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_fim_realizado": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.fim_realizado": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.fim_realizado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.fim_realizado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_fim_realizados"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_inicio_realizado": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.inicio_realizado": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.inicio_realizado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.inicio_realizado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_inicio_realizados"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_data_previsão_da_entrega_acordada": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.data_previsão_da_entrega_acordada": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.data_previsão_da_entrega_acordada"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.data_previsão_da_entrega_acordada"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_data_previsão_da_entrega_acordadas"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_data_previsão_da_entrega_conf__sladias": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.data_previsão_da_entrega_conf__sladias": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.data_previsão_da_entrega_conf__sladias"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.data_previsão_da_entrega_conf__sladias"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_data_previsão_da_entrega_conf__sladias"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_data_previsão_da_entrega_conf__sladata": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.data_previsão_da_entrega_conf__sladata": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.data_previsão_da_entrega_conf__sladata"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.data_previsão_da_entrega_conf__sladata"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_data_previsão_da_entrega_conf__sladata"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.sla_qtd_dias_úteis_para_entrega_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.sla_qtd_dias_úteis_para_entrega_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_sla_qtd_dias_úteis_para_entrega_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_tipo_de_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.tipo_de_demanda": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.tipo_de_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.tipo_de_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_tipo_de_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_reanálise_devidonovo_cenário": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.reanálise_devidonovo_cenário": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.reanálise_devidonovo_cenário"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.reanálise_devidonovo_cenário"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_reanálise_devidonovo_cenários"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_descrição_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.descrição_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.descrição_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.descrição_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_descrição_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_título_email": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.título_email": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.título_email"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.título_email"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_título_emails"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_fonte_de_recebimento": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.fonte_de_recebimento": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.fonte_de_recebimento"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.fonte_de_recebimento"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_fonte_de_recebimentos"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_filial": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.filial": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.filial"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.filial"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_filial"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_área_solicitante": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.área_solicitante": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.área_solicitante"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.área_solicitante"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_área_solicitantes"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_hierarquia_de_priorização": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.hierarquia_de_priorização": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.hierarquia_de_priorização"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.hierarquia_de_priorização"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_hierarquia_de_priorizaçãos"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_coordenação": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.coordenação": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.coordenação"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.coordenação"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_coordenaçãos"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_nome_responsável": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.nome_responsável": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.nome_responsável"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.nome_responsável"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_nome_responsávels"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_data": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.data": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_data"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_id": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.id": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_ids"
+			        },
+			        {
+			          "Name": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Name": {
+			              "Role": "controle_demandas_2024.id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ids_are_names_IDs_of_controle_demandas_2024"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_período_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.período_ano": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.período_ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.período_ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_período_anos"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_período_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.período_mê": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.período_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.período_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_período_mê"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_total_de_atividades_que_tiveram_justificativa": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_tiveram_justificativa": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_tiveram_justificativa"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_tiveram_justificativa"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_total_de_atividades_que_tiveram_justificativa"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_total_de_atividades_que_precisam_de_justificativa": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_precisam_de_justificativa": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_precisam_de_justificativa"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.total_de_atividades_que_precisam_de_justificativa"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_total_de_atividades_que_precisam_de_justificativa"
+			        }
+			      ]
+			    },
+			    "v__Medidas_Demandas_Medidas_Demanda_has_controle_de_atividades": {
+			      "Binding": {
+			        "ConceptualEntity": "@_Medidas_Demandas"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "v__Medidas_Demandas_Medidas_Demanda": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.controle_de_atividades": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.controle_de_atividades"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.controle_de_atividades"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "Phrasing_Medidas_Demandas_have_controle_de_atividades"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_sla": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.sla": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.sla"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.sla"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_sla"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_quantidade_de_demandas_por_recurso": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_recurso": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_recurso"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_recurso"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_quantidade_de_demandas_por_recurso"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_quantidade_de_demandas_por_mês": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_mês": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_mês"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas_por_mês"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_quantidade_de_demandas_por_mês"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_v__Medidas_Demandas_Medidas_Demanda_quantidade_de_demandas": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas": {
+			          "Target": {
+			            "Entity": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "v__Medidas_Demandas_Medidas_Demanda.quantidade_de_demandas"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_quantidade_de_demandas"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_início_do_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.início_do_mê": {
+			          "Target": {
+			            "Entity": "controle_chamado.início_do_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.início_do_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_início_do_mê"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_observaçõe": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.observaçõe": {
+			          "Target": {
+			            "Entity": "controle_chamado.observaçõe"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.observaçõe"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_observações"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_homologado": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.homologado": {
+			          "Target": {
+			            "Entity": "controle_chamado.homologado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.homologado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_homologados"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_resposta_do_chamado_efetiva": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.resposta_do_chamado_efetiva": {
+			          "Target": {
+			            "Entity": "controle_chamado.resposta_do_chamado_efetiva"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.resposta_do_chamado_efetiva"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_resposta_do_chamado_efetivas"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_qtd_dias_para_conclusão": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.qtd_dias_para_conclusão": {
+			          "Target": {
+			            "Entity": "controle_chamado.qtd_dias_para_conclusão"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.qtd_dias_para_conclusão"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_qtd_dias_para_conclusãos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_qtd_dias_pendente": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.qtd_dias_pendente": {
+			          "Target": {
+			            "Entity": "controle_chamado.qtd_dias_pendente"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.qtd_dias_pendente"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_qtd_dias_pendentes"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_status": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.status": {
+			          "Target": {
+			            "Entity": "controle_chamado.status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_statuses"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_data_fim": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.data_fim": {
+			          "Target": {
+			            "Entity": "controle_chamado.data_fim"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.data_fim"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_data_fims"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_analista_responsável": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.analista_responsável": {
+			          "Target": {
+			            "Entity": "controle_chamado.analista_responsável"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.analista_responsável"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_analista_responsávels"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_solicitado_por": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.solicitado_por": {
+			          "Target": {
+			            "Entity": "controle_chamado.solicitado_por"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.solicitado_por"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_solicitado_pors"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_departamento": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.departamento": {
+			          "Target": {
+			            "Entity": "controle_chamado.departamento"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.departamento"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_departamentos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_observação": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.observação": {
+			          "Target": {
+			            "Entity": "controle_chamado.observação"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.observação"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_observaçãos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_descrição": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.descrição": {
+			          "Target": {
+			            "Entity": "controle_chamado.descrição"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.descrição"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_descriçãos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_classificação": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.classificação": {
+			          "Target": {
+			            "Entity": "controle_chamado.classificação"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.classificação"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_classificaçãos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_impacto_PQR": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.impacto_PQR": {
+			          "Target": {
+			            "Entity": "controle_chamado.impacto_PQR"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.impacto_PQR"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_impacto_PQRs"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_tipo": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.tipo": {
+			          "Target": {
+			            "Entity": "controle_chamado.tipo"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.tipo"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_tipos"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_data_abertura": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.data_abertura": {
+			          "Target": {
+			            "Entity": "controle_chamado.data_abertura"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.data_abertura"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_data_aberturas"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_nº_HELP": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.nº_HELP": {
+			          "Target": {
+			            "Entity": "controle_chamado.nº_HELP"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.nº_HELP"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_nº_HELPs"
+			        }
+			      ]
+			    },
+			    "controle_chamado_has_mês_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE CHAMADOS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_chamado": {
+			          "Target": {
+			            "Entity": "controle_chamado"
+			          }
+			        },
+			        "controle_chamado.mês_ano": {
+			          "Target": {
+			            "Entity": "controle_chamado.mês_ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_chamado"
+			            },
+			            "Object": {
+			              "Role": "controle_chamado.mês_ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_chamados_have_mês_anos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.mê": {
+			          "Target": {
+			            "Entity": "controle_demanda.mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_mê"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.ano": {
+			          "Target": {
+			            "Entity": "controle_demanda.ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_anos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_título_email": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.título_email": {
+			          "Target": {
+			            "Entity": "controle_demanda.título_email"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.título_email"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_título_emails"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_precisa_de_justificativa": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.precisa_de_justificativa": {
+			          "Target": {
+			            "Entity": "controle_demanda.precisa_de_justificativa"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.precisa_de_justificativa"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_precisa_de_justificativas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_sla": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.sla": {
+			          "Target": {
+			            "Entity": "controle_demanda.sla"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.sla"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_sla1"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_ano_mes_id": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.ano_mes_id": {
+			          "Target": {
+			            "Entity": "controle_demanda.ano_mes_id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.ano_mes_id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_ano_mes_ids"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_ano_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.ano_mê": {
+			          "Target": {
+			            "Entity": "controle_demanda.ano_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.ano_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_ano_mê"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_mês_2": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.mês_2": {
+			          "Target": {
+			            "Entity": "controle_demanda.mês_2"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.mês_2"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_mês_2"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_início_do_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.início_do_mê": {
+			          "Target": {
+			            "Entity": "controle_demanda.início_do_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.início_do_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_início_do_mê"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_link_caminho_para_acesso_do_material": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.link_caminho_para_acesso_do_material": {
+			          "Target": {
+			            "Entity": "controle_demanda.link_caminho_para_acesso_do_material"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.link_caminho_para_acesso_do_material"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_link_caminho_para_acesso_do_materials"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_recurso_3": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.recurso_3": {
+			          "Target": {
+			            "Entity": "controle_demanda.recurso_3"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.recurso_3"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_recurso_3"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_recurso_2": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.recurso_2": {
+			          "Target": {
+			            "Entity": "controle_demanda.recurso_2"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.recurso_2"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_recurso_2"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_recurso_1": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.recurso_1": {
+			          "Target": {
+			            "Entity": "controle_demanda.recurso_1"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.recurso_1"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_recurso_1"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_justificativa_do_status": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.justificativa_do_status": {
+			          "Target": {
+			            "Entity": "controle_demanda.justificativa_do_status"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.justificativa_do_status"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_justificativa_do_statuses"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_status_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.status_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda.status_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.status_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_status_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_stand_by": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.stand_by": {
+			          "Target": {
+			            "Entity": "controle_demanda.stand_by"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.stand_by"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_stand_by"
+			        },
+			        {
+			          "Verb": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Verbs": [
+			              {
+			                "stand": {
+			                  "State": "Generated"
+			                }
+			              }
+			            ],
+			            "PrepositionalPhrases": [
+			              {
+			                "Prepositions": [
+			                  {
+			                    "by": {
+			                      "State": "Generated"
+			                    }
+			                  }
+			                ],
+			                "Object": {
+			                  "Role": "controle_demanda.stand_by"
+			                }
+			              }
+			            ]
+			          },
+			          "State": "Generated",
+			          "Weight": 0.95,
+			          "ID": "controle_demandas_stand_by_stand_by"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_fim_realizado": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.fim_realizado": {
+			          "Target": {
+			            "Entity": "controle_demanda.fim_realizado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.fim_realizado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_fim_realizados"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_inicio_realizado": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.inicio_realizado": {
+			          "Target": {
+			            "Entity": "controle_demanda.inicio_realizado"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.inicio_realizado"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_inicio_realizados"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_data_previsão_da_entrega_acordada": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.data_previsão_da_entrega_acordada": {
+			          "Target": {
+			            "Entity": "controle_demanda.data_previsão_da_entrega_acordada"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.data_previsão_da_entrega_acordada"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_data_previsão_da_entrega_acordadas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_data_previsão_da_entrega_conf__sladias": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.data_previsão_da_entrega_conf__sladias": {
+			          "Target": {
+			            "Entity": "controle_demanda.data_previsão_da_entrega_conf__sladias"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.data_previsão_da_entrega_conf__sladias"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_data_previsão_da_entrega_conf__sladias"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_data_previsão_da_entrega_conf__sladata": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.data_previsão_da_entrega_conf__sladata": {
+			          "Target": {
+			            "Entity": "controle_demanda.data_previsão_da_entrega_conf__sladata"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.data_previsão_da_entrega_conf__sladata"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_data_previsão_da_entrega_conf__sladata"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.sla_qtd_dias_úteis_para_entrega_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda.sla_qtd_dias_úteis_para_entrega_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.sla_qtd_dias_úteis_para_entrega_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_sla_qtd_dias_úteis_para_entrega_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_tipo_de_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.tipo_de_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda.tipo_de_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.tipo_de_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_tipo_de_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_reanálise_devidonovo_cenário": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.reanálise_devidonovo_cenário": {
+			          "Target": {
+			            "Entity": "controle_demanda.reanálise_devidonovo_cenário"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.reanálise_devidonovo_cenário"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_reanálise_devidonovo_cenários"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_descrição_da_demanda": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.descrição_da_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda.descrição_da_demanda"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.descrição_da_demanda"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_descrição_da_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_e_mail": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.e_mail": {
+			          "Target": {
+			            "Entity": "controle_demanda.e_mail"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.e_mail"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_e_mails"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_fonte_de_recebimento": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.fonte_de_recebimento": {
+			          "Target": {
+			            "Entity": "controle_demanda.fonte_de_recebimento"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.fonte_de_recebimento"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_fonte_de_recebimentos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_filial": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.filial": {
+			          "Target": {
+			            "Entity": "controle_demanda.filial"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.filial"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_filial"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_área_solicitante": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.área_solicitante": {
+			          "Target": {
+			            "Entity": "controle_demanda.área_solicitante"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.área_solicitante"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_área_solicitantes"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_hierarquia_de_priorização": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.hierarquia_de_priorização": {
+			          "Target": {
+			            "Entity": "controle_demanda.hierarquia_de_priorização"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.hierarquia_de_priorização"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_hierarquia_de_priorizaçãos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_coordenação": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.coordenação": {
+			          "Target": {
+			            "Entity": "controle_demanda.coordenação"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.coordenação"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_coordenaçãos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_nome_responsável": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.nome_responsável": {
+			          "Target": {
+			            "Entity": "controle_demanda.nome_responsável"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.nome_responsável"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_nome_responsávels"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_data": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.data": {
+			          "Target": {
+			            "Entity": "controle_demanda.data"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.data"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_data"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_id": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.id": {
+			          "Target": {
+			            "Entity": "controle_demanda.id"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_ids"
+			        },
+			        {
+			          "Name": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Name": {
+			              "Role": "controle_demanda.id"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "ids_are_names_IDs_of_controle_demandas"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_período_ano": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.período_ano": {
+			          "Target": {
+			            "Entity": "controle_demanda.período_ano"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.período_ano"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_período_anos"
+			        }
+			      ]
+			    },
+			    "controle_demanda_has_período_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demanda": {
+			          "Target": {
+			            "Entity": "controle_demanda"
+			          }
+			        },
+			        "controle_demanda.período_mê": {
+			          "Target": {
+			            "Entity": "controle_demanda.período_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demanda"
+			            },
+			            "Object": {
+			              "Role": "controle_demanda.período_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_have_período_mê"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_recurso_2": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.recurso_2": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.recurso_2"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.recurso_2"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_recurso_2"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_recurso_3": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.recurso_3": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.recurso_3"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.recurso_3"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_recurso_3"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_link_caminho_para_acesso_do_material": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.link_caminho_para_acesso_do_material": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.link_caminho_para_acesso_do_material"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.link_caminho_para_acesso_do_material"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_link_caminho_para_acesso_do_materials"
+			        }
+			      ]
+			    },
+			    "controle_demandas_2024_has_início_do_mê": {
+			      "Binding": {
+			        "ConceptualEntity": "CONTROLE DEMANDAS_2024"
+			      },
+			      "State": "Generated",
+			      "Roles": {
+			        "controle_demandas_2024": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024"
+			          }
+			        },
+			        "controle_demandas_2024.início_do_mê": {
+			          "Target": {
+			            "Entity": "controle_demandas_2024.início_do_mê"
+			          }
+			        }
+			      },
+			      "Phrasings": [
+			        {
+			          "Attribute": {
+			            "Subject": {
+			              "Role": "controle_demandas_2024"
+			            },
+			            "Object": {
+			              "Role": "controle_demandas_2024.início_do_mê"
+			            }
+			          },
+			          "State": "Generated",
+			          "Weight": 0.99,
+			          "ID": "controle_demandas_2024_have_início_do_mê"
+			        }
+			      ]
+			    }
+			  }
+			}
+		contentType: json
+

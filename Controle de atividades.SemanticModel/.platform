@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SemanticModel",
+    "displayName": "Controle de atividades"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "b1b2a13c-30c6-41fd-8f3a-7784ab4f315e"
+  }
+}
