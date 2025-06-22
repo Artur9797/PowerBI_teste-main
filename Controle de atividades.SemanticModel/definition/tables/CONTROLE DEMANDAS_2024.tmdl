@@ -1,0 +1,249 @@
+table 'CONTROLE DEMANDAS_2024'
+	lineageTag: eba46eab-3798-43b6-b844-137126309c48
+
+	column PERÍODO/MÊS
+		dataType: string
+		lineageTag: 9bab1e4e-6454-440f-bfb7-9710b01272ef
+		summarizeBy: none
+		sourceColumn: PERÍODO/MÊS
+
+		annotation SummarizationSetBy = Automatic
+
+	column PERÍODO/ANO
+		dataType: string
+		lineageTag: 603b092c-1040-4741-a674-48ce7c173354
+		summarizeBy: none
+		sourceColumn: PERÍODO/ANO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'ID '
+		dataType: string
+		lineageTag: 198ff7c4-8ed2-4293-86d1-04c3f76e84ed
+		summarizeBy: none
+		sourceColumn: "ID "
+
+		annotation SummarizationSetBy = Automatic
+
+	column DATA
+		dataType: string
+		lineageTag: 6e30094b-7545-45dc-963c-b514f05ba36b
+		summarizeBy: none
+		sourceColumn: DATA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'NOME RESPONSÁVEL'
+		dataType: string
+		lineageTag: 7bb3a784-f366-4553-b99f-b3704d71cf1d
+		summarizeBy: none
+		sourceColumn: NOME RESPONSÁVEL
+
+		annotation SummarizationSetBy = Automatic
+
+	column COORDENAÇÃO
+		dataType: string
+		lineageTag: 093cb21d-4448-4955-ac9f-1f5d0cb574bf
+		summarizeBy: none
+		sourceColumn: COORDENAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'HIERARQUIA DE PRIORIZAÇÃO'
+		dataType: string
+		lineageTag: 5e286bbf-dcc4-4877-be4d-7a6a883ce226
+		summarizeBy: none
+		sourceColumn: HIERARQUIA DE PRIORIZAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'ÁREA SOLICITANTE'
+		dataType: string
+		lineageTag: 49e34d3b-52eb-4b09-ab83-4e1c5b8419c5
+		summarizeBy: none
+		sourceColumn: ÁREA SOLICITANTE
+
+		annotation SummarizationSetBy = Automatic
+
+	column FILIAL
+		dataType: string
+		lineageTag: 3a516499-87d0-4eaa-b5b1-e19233889a90
+		summarizeBy: none
+		sourceColumn: FILIAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'FONTE DE RECEBIMENTO'
+		dataType: string
+		lineageTag: dae1a6c9-3d67-40ff-a440-1a378913fa3a
+		summarizeBy: none
+		sourceColumn: FONTE DE RECEBIMENTO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'TÍTULO E-MAIL'
+		dataType: string
+		lineageTag: eab47c7b-b27d-4da4-b81b-c1fac260cbc3
+		summarizeBy: none
+		sourceColumn: TÍTULO E-MAIL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DESCRIÇÃO DA DEMANDA'
+		dataType: string
+		lineageTag: a263773d-b863-46ee-9400-c1033c7c4371
+		summarizeBy: none
+		sourceColumn: DESCRIÇÃO DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'REANÁLISE DEVIDONOVO CENÁRIO'
+		dataType: string
+		lineageTag: 7575281a-f6cf-4055-8f86-aeb05230bbdb
+		summarizeBy: none
+		sourceColumn: REANÁLISE DEVIDONOVO CENÁRIO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'TIPO DE DEMANDA'
+		dataType: string
+		lineageTag: ea63a7af-bb70-484a-9361-0a4f6c669829
+		summarizeBy: none
+		sourceColumn: TIPO DE DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA'
+		dataType: string
+		lineageTag: b84eec90-13f6-4231-9c94-15bd6064eb97
+		summarizeBy: none
+		sourceColumn: SLA QTD DIAS ÚTEIS PARA ENTREGA DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)'
+		dataType: string
+		lineageTag: fee45758-794a-4315-8296-b283ca550437
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA CONF. SLA(DATA)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)'
+		dataType: string
+		lineageTag: 59e70fae-de6e-4be0-8548-7b5154240081
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA CONF. SLA(DIAS)
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA PREVISÃO DA ENTREGA ACORDADA'
+		dataType: string
+		lineageTag: f7c767e8-7ab7-4b8d-b157-9710b0c0c51d
+		summarizeBy: none
+		sourceColumn: DATA PREVISÃO DA ENTREGA ACORDADA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'INICIO REALIZADO'
+		dataType: int64
+		formatString: 0
+		lineageTag: 0efbca9f-d137-4e8e-a0ec-63ed0bbc391b
+		summarizeBy: sum
+		sourceColumn: INICIO REALIZADO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'FIM REALIZADO'
+		dataType: int64
+		formatString: 0
+		lineageTag: 966073d4-5dd9-4019-81e9-e21f3c187de8
+		summarizeBy: sum
+		sourceColumn: FIM REALIZADO
+
+		annotation SummarizationSetBy = Automatic
+
+	column ' STAND BY'
+		dataType: string
+		lineageTag: 029ffca7-849a-40fc-8c9a-37d330f4dcc3
+		summarizeBy: none
+		sourceColumn: " STAND BY"
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'STATUS DA DEMANDA'
+		dataType: string
+		lineageTag: db60e748-9476-4ece-b1b5-ceae0c217b3d
+		summarizeBy: none
+		sourceColumn: STATUS DA DEMANDA
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'JUSTIFICATIVA DO STATUS'
+		dataType: string
+		lineageTag: be16c797-690c-4646-bd03-8987581de79b
+		summarizeBy: none
+		sourceColumn: JUSTIFICATIVA DO STATUS
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 1'
+		dataType: string
+		lineageTag: 084559ac-ab6f-4d7d-af0c-ac50bcac9102
+		summarizeBy: none
+		sourceColumn: RECURSO 1
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 2'
+		dataType: string
+		lineageTag: 1c9c1614-6845-47cf-9f74-f28d166132ca
+		summarizeBy: none
+		sourceColumn: RECURSO 2
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RECURSO 3'
+		dataType: string
+		lineageTag: ae22a27e-aa2f-4f9a-aa54-5e0f80611fab
+		summarizeBy: none
+		sourceColumn: RECURSO 3
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'LINK/CAMINHO PARA ACESSO DO MATERIAL'
+		dataType: string
+		lineageTag: 98c2bec1-defd-4df2-a606-c6e559f96f45
+		summarizeBy: none
+		sourceColumn: LINK/CAMINHO PARA ACESSO DO MATERIAL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Início do Mês'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: a7b9029e-df99-4238-bcce-b6765e2cb6b7
+		summarizeBy: none
+		sourceColumn: Início do Mês
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition 'CONTROLE DEMANDAS_2024' = m
+		mode: import
+		source =
+				let
+				    Fonte = GoogleSheets.Contents("https://docs.google.com/spreadsheets/d/1zfEtcB1iv3Cmal1Pxv5HX52c21BTlK_YM2IL1XdBPYw/edit?gid=0#gid=0"),
+				    #"CONTROLE DEMANDAS_Table" = Fonte{[name="CONTROLE DEMANDAS",ItemKind="Table"]}[Data],
+				    #"Linhas Filtradas" = Table.SelectRows(#"CONTROLE DEMANDAS_Table", each ([Column1] <> "")),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(#"Linhas Filtradas", [PromoteAllScalars=true]),
+				    #"Início do Mês Inserido" = Table.AddColumn(#"Cabeçalhos Promovidos", "Início do Mês", each Date.StartOfMonth([#"PERÍODO/MÊS"]), type date),
+				    #"Tipo Alterado1" = Table.TransformColumnTypes(#"Início do Mês Inserido",{{"FIM REALIZADO", Int64.Type}, {"INICIO REALIZADO", Int64.Type}})
+				in
+				    #"Tipo Alterado1"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+

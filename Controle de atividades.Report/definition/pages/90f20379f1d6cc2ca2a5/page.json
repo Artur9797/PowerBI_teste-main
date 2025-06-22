@@ -1,0 +1,161 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/item/report/definition/page/1.1.0/schema.json",
+  "name": "90f20379f1d6cc2ca2a5",
+  "displayName": "Controle de Chamados",
+  "displayOption": "FitToWidth",
+  "height": 1400,
+  "width": 1280,
+  "visibility": "HiddenInViewMode",
+  "visualInteractions": [
+    {
+      "source": "6fec73bf3c099ac49e85",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c400dc209004fb79bea",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "6fec73bf3c099ac49e85",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "df1251985e201b410c4c",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "6fec73bf3c099ac49e85",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    },
+    {
+      "source": "df1251985e201b410c4c",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "6fec73bf3c099ac49e85",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "a7657d254d2f9ce6a6f7",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "a7657d254d2f9ce6a6f7",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "a7657d254d2f9ce6a6f7",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c400dc209004fb79bea",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c400dc209004fb79bea",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "685a1958dfdff4ef5cfc",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "685a1958dfdff4ef5cfc",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "685a1958dfdff4ef5cfc",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "08ab2306ac76ae5c60fb",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "08ab2306ac76ae5c60fb",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    },
+    {
+      "source": "08ab2306ac76ae5c60fb",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "08ab2306ac76ae5c60fb",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "6fec73bf3c099ac49e85",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "df1251985e201b410c4c",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "df1251985e201b410c4c",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    },
+    {
+      "source": "a7657d254d2f9ce6a6f7",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "685a1958dfdff4ef5cfc",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "1c400dc209004fb79bea",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "602bd587b1143541a995",
+      "target": "08ab2306ac76ae5c60fb",
+      "type": "DataFilter"
+    },
+    {
+      "source": "602bd587b1143541a995",
+      "target": "a7657d254d2f9ce6a6f7",
+      "type": "DataFilter"
+    },
+    {
+      "source": "602bd587b1143541a995",
+      "target": "df1251985e201b410c4c",
+      "type": "DataFilter"
+    },
+    {
+      "source": "602bd587b1143541a995",
+      "target": "1c400dc209004fb79bea",
+      "type": "DataFilter"
+    },
+    {
+      "source": "602bd587b1143541a995",
+      "target": "685a1958dfdff4ef5cfc",
+      "type": "DataFilter"
+    }
+  ]
+}

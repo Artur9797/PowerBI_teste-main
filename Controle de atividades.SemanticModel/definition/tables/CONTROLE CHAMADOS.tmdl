@@ -1,0 +1,186 @@
+table 'CONTROLE CHAMADOS'
+	lineageTag: 1ac26def-04a4-49bc-b78a-3a0e4649bbfe
+
+	column 'MÊS.ANO'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: b481ff09-dbfe-4666-aaab-2fc7a2f88ecf
+		summarizeBy: none
+		sourceColumn: MÊS.ANO
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column 'Nº HELP'
+		dataType: string
+		lineageTag: 9a91d2a6-aae6-4e46-a677-b33d6048295b
+		summarizeBy: none
+		sourceColumn: Nº HELP
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA ABERTURA'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 9f5e244d-611c-43f9-808b-0c6ff2b70b25
+		summarizeBy: none
+		sourceColumn: DATA ABERTURA
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column TIPO
+		dataType: string
+		lineageTag: c29eeafa-a853-437e-ad1c-b4795bb33f63
+		summarizeBy: none
+		sourceColumn: TIPO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Impacto PQRS'
+		dataType: string
+		lineageTag: fbe9901f-6679-4236-9400-6291949f6b4a
+		summarizeBy: none
+		sourceColumn: Impacto PQRS
+
+		annotation SummarizationSetBy = Automatic
+
+	column CLASSIFICAÇÃO
+		dataType: string
+		lineageTag: 3632d60b-f899-49c1-aa58-fac66457adaf
+		summarizeBy: none
+		sourceColumn: CLASSIFICAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column DESCRIÇÃO
+		dataType: string
+		lineageTag: 1f4e5f02-f3c6-43ac-a5c8-cd6bc2b47841
+		summarizeBy: none
+		sourceColumn: DESCRIÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column OBSERVAÇÃO
+		dataType: string
+		lineageTag: 9e6c9cf8-c4f5-47dc-b718-866926a4720e
+		summarizeBy: none
+		sourceColumn: OBSERVAÇÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column DEPARTAMENTO
+		dataType: string
+		lineageTag: 88a84477-398f-41c2-80d9-53e140cc13b2
+		summarizeBy: none
+		sourceColumn: DEPARTAMENTO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'SOLICITADO POR'
+		dataType: string
+		lineageTag: e7c995a7-ce86-4b04-bf2e-93001b3b2dc8
+		summarizeBy: none
+		sourceColumn: SOLICITADO POR
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'ANALISTA RESPONSÁVEL'
+		dataType: string
+		lineageTag: d4b6a9a3-ff30-49f6-baae-1ebc5a74d073
+		summarizeBy: none
+		sourceColumn: ANALISTA RESPONSÁVEL
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'DATA FIM'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 7866d144-9855-4141-ae31-a8ab695d6f3c
+		summarizeBy: none
+		sourceColumn: DATA FIM
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	column STATUS
+		dataType: string
+		lineageTag: 0047bfb3-65f2-4423-99eb-e6be1559c09c
+		summarizeBy: none
+		sourceColumn: STATUS
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'QTD DIAS PENDENTES'
+		dataType: int64
+		formatString: 0
+		lineageTag: 70fba60b-fba2-4b30-a6f8-805d49217330
+		summarizeBy: sum
+		sourceColumn: QTD DIAS PENDENTES
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'QTD DIAS PARA CONCLUSÃO'
+		dataType: int64
+		formatString: 0
+		lineageTag: 0c0548af-38ff-432d-b548-7421beff7ad6
+		summarizeBy: sum
+		sourceColumn: QTD DIAS PARA CONCLUSÃO
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'RESPOSTA DO CHAMADO EFETIVA'
+		dataType: string
+		lineageTag: 2377bf95-2748-4484-b8da-71abb385a3ea
+		summarizeBy: none
+		sourceColumn: RESPOSTA DO CHAMADO EFETIVA
+
+		annotation SummarizationSetBy = Automatic
+
+	column HOMOLOGADO
+		dataType: string
+		lineageTag: 07e6723a-a822-433f-b630-7d9e990ab10f
+		summarizeBy: none
+		sourceColumn: HOMOLOGADO
+
+		annotation SummarizationSetBy = Automatic
+
+	column OBSERVAÇÕES
+		dataType: string
+		lineageTag: 07b53442-5140-4c6c-ad64-a10fafd0f156
+		summarizeBy: none
+		sourceColumn: OBSERVAÇÕES
+
+		annotation SummarizationSetBy = Automatic
+
+	column 'Início do Mês'
+		dataType: dateTime
+		formatString: Long Date
+		lineageTag: 7da8ad3b-87e3-41f3-bfd4-2a2ad8318250
+		summarizeBy: none
+		sourceColumn: Início do Mês
+
+		annotation SummarizationSetBy = Automatic
+
+		annotation UnderlyingDateTimeDataType = Date
+
+	partition 'CONTROLE CHAMADOS' = m
+		mode: import
+		source =
+				let
+				    Fonte = GoogleSheets.Contents("https://docs.google.com/spreadsheets/d/1dsu5x37cavXVc201KuF3T8xADpi8b0SUanvDVsF9geQ/edit?usp=sharing"),
+				    #"CONTROLE CHAMADOS_Table" = Fonte{[name="CONTROLE CHAMADOS",ItemKind="Table"]}[Data],
+				    #"Linhas Filtradas" = Table.SelectRows(#"CONTROLE CHAMADOS_Table", each ([Column1] <> "")),
+				    #"Cabeçalhos Promovidos" = Table.PromoteHeaders(#"Linhas Filtradas", [PromoteAllScalars=true]),
+				    #"Tipo Alterado" = Table.TransformColumnTypes(#"Cabeçalhos Promovidos",{{"MÊS.ANO", type date}, {"Nº HELP", type text}, {"DATA ABERTURA", type date}, {"TIPO", type text}, {"Impacto PQRS", type text}, {"CLASSIFICAÇÃO", type text}, {"DESCRIÇÃO", type text}, {"OBSERVAÇÃO", type text}, {"DEPARTAMENTO", type text}, {"SOLICITADO POR", type text}, {"ANALISTA RESPONSÁVEL", type text}, {"DATA FIM", type date}, {"STATUS", type text}, {"QTD DIAS PENDENTES", Int64.Type}, {"QTD DIAS PARA CONCLUSÃO", Int64.Type}, {"RESPOSTA DO CHAMADO EFETIVA", type text}, {"HOMOLOGADO", type text}, {"OBSERVAÇÕES", type text}}),
+				    #"Início do Mês Inserido" = Table.AddColumn(#"Tipo Alterado", "Início do Mês", each Date.StartOfMonth([MÊS.ANO]), type date)
+				in
+				    #"Início do Mês Inserido"
+
+	annotation PBI_NavigationStepName = Navegação
+
+	annotation PBI_ResultType = Table
+
