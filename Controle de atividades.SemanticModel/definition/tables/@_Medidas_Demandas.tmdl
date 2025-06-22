@@ -26,7 +26,7 @@ table @_Medidas_Demandas
 			    'CONTROLE DEMANDAS'[STATUS DA DEMANDA] <> "CANCELADO",
 			    'CONTROLE DEMANDAS'[SLA] < 365,
 			    'CONTROLE DEMANDAS'[SLA] > -100
-			)
+			)+0
 		formatString: #,0.0
 		lineageTag: ac04ddad-38fd-4080-8997-3aa5d188bda7
 
